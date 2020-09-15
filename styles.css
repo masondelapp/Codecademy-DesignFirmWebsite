@@ -239,15 +239,7 @@ header h1 {
     background-size: cover;
     flex-grow: 5;
 }
-/*
-#camp {
-    background-image: url(Resources/Photos/camp.jpeg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    flex-grow: 5;
-}
-*/
+
 #magazine{
     background-image: url(Resources/Photos/Alpine.jpg);
     background-repeat: no-repeat;
@@ -256,15 +248,6 @@ header h1 {
     flex-grow: 5;
     
 }
-/*
-#proof {
-    background-image: url(Resources/Photos/proof.jpeg);
-    background-repeat: no-repeat;
-    background-position: top;
-    background-size: cover;
-    flex-grow: 3;
-}
-*/
 
 #beer {
     background-image: url(Resources/Photos/beer2.jpeg);
